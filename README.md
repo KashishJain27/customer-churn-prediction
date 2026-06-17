@@ -105,6 +105,7 @@ Model Performance:
 ---
 
 ## Project Structure
+```text
 customer_churn_prediction
 │
 ├── data
@@ -129,6 +130,7 @@ customer_churn_prediction
 │   └── churn_dashboard.png
 │
 └── README.md
+```
 ---
 
 ## Author
