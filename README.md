@@ -105,32 +105,30 @@ Model Performance:
 ---
 
 ## Project Structure
-'''
 customer_churn_prediction
-
+│
 ├── data
 │   ├── raw
 │   │   └── customer_churn.csv
 │   └── processed
 │       └── churn_predictions.csv
-
+│
 ├── python
 │   ├── generate_dataset.py
 │   ├── eda.py
 │   └── churn_model.py
-
+│
 ├── sql
 │   ├── schema.sql
 │   └── analysis_queries.sql
-
+│
 ├── powerbi
-│   └── Customer_churn_prediction.pbix
-
+│   └── Customer_Churn_Prediction.pbix
+│
 ├── images
 │   └── churn_dashboard.png
-
+│
 └── README.md
-'''
 ---
 
 ## Author
